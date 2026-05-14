@@ -4,7 +4,6 @@ import { Screen } from '../model/Screen';
 
 @Component({
   selector: 'navigation',
-  imports: [],
   templateUrl: './navigation.component.html',
   styleUrl: './navigation.component.scss'
 })
