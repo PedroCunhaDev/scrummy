@@ -1,0 +1,13 @@
+:host > div {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  justify-content: end;
+
+  > div {
+    background: #aaa;
+    padding: 3px;
+    width: 30px;
+    aspect-ratio: 1 / 1;
+  }
+}
